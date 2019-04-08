@@ -1,0 +1,31 @@
+.jumbotron{
+	padding: 10px;
+}
+.article-Main{
+	background-color: #e9ecef;
+	padding:20px;
+}
+.thumbnail{
+	text-align: center;
+}
+.Post_Title{
+	text-align: center;
+}
+.Post_info{
+text-align: center;
+}
+.SinglePost_Title{
+	text-align: center;
+	background-color: #f44b42;
+}
+.n_p_buttons{
+	padding-top: 35px;
+}
+
+.Next{
+	float: right;
+}
+.Previous{
+	float: left;
+}
+
